@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirma\\Desktop\\DatingApp\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16B33AEE-23C3-4397-AF8F-2E3E25A664D4}|API.csproj|c:\\users\\mirma\\desktop\\datingapp\\api\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16B33AEE-23C3-4397-AF8F-2E3E25A664D4}|API.csproj|solutionrelative:data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "seed.cs",
+              "DocumentMoniker": "C:\\Users\\mirma\\Desktop\\DatingApp\\API\\Data\\seed.cs",
+              "RelativeDocumentMoniker": "Data\\seed.cs",
+              "ToolTip": "C:\\Users\\mirma\\Desktop\\DatingApp\\API\\Data\\seed.cs",
+              "RelativeToolTip": "Data\\seed.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:49:48.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
