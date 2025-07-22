@@ -1,0 +1,7 @@
+Clients contains all the codes for the UI
+
+
+API Contains all the backend logic and code 
+
+
+currently under construction...
